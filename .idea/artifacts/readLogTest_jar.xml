@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="readLogTest:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/readLogTest_jar</output-path>
+    <root id="archive" name="readLogTest_jar.jar">
+      <element id="module-output" name="readLogTest" />
+    </root>
+  </artifact>
+</component>
